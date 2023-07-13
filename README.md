@@ -1,5 +1,8 @@
 # Python pointers & libraries to check out
 ## Python
+
+https://www.python.org/downloads/windows/
+
 * Python data types https://docs.python.org/3.7/library/stdtypes.html#numeric-types-int-float-complex
 * Python functions list https://docs.python.org/3.7/library/functions.html
 * Python dictionary keys https://docs.python.org/3.7/faq/design.html#why-must-dictionary-keys-be-immutable
