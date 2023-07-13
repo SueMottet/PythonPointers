@@ -30,7 +30,7 @@ import os
 #### csv
 https://docs.python.org/3/library/csv.html
 
-imoprt csv
+import csv
 
 #### Pandas
 import pandas
