@@ -1,14 +1,14 @@
 # Python pointers & libraries to check out
 ## Python
-Python data types https://docs.python.org/3.7/library/stdtypes.html#numeric-types-int-float-complex
-Python functions list https://docs.python.org/3.7/library/functions.html
-Python dictionary keys https://docs.python.org/3.7/faq/design.html#why-must-dictionary-keys-be-immutable
-Python view objects https://docs.python.org/3.7/library/stdtypes.html#dictionary-view-objects
-Python comparison operators https://docs.python.org/3.7/library/stdtypes.html#comparisons
-Python formatting f-string literals https://www.python.org/dev/peps/pep-0498/
-Python file and directory access https://docs.python.org/3.7/library/os.path.html
-Python next() method https://docs.python.org/3.7/library/csv.html#reader-objects
-Python Libraries and Tools Information
+* Python data types https://docs.python.org/3.7/library/stdtypes.html#numeric-types-int-float-complex
+* Python functions list https://docs.python.org/3.7/library/functions.html
+* Python dictionary keys https://docs.python.org/3.7/faq/design.html#why-must-dictionary-keys-be-immutable
+* Python view objects https://docs.python.org/3.7/library/stdtypes.html#dictionary-view-objects
+* Python comparison operators https://docs.python.org/3.7/library/stdtypes.html#comparisons
+* Python formatting f-string literals https://www.python.org/dev/peps/pep-0498/
+* Python file and directory access https://docs.python.org/3.7/library/os.path.html
+* Python next() method https://docs.python.org/3.7/library/csv.html#reader-objects
+* Python Libraries and Tools Information
 
 ### Libraries and Indexes
 The Python Standard Library — Python 3.11.4 documentation: https://docs.python.org/3/library/index.html
