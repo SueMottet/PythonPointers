@@ -22,7 +22,19 @@ PythonDecorators - Python Wiki: https://wiki.python.org/moin/PythonDecorators
 
 12. Decorator and Descriptors — Advance Python Tutorials documentation (pythonguide.readthedocs.io): https://pythonguide.readthedocs.io/en/latest/python/decorator.html
 
+#### os
+https://docs.python.org/3/library/os.html
+
+import os
+
+#### csv
+https://docs.python.org/3/library/csv.html
+
+imoprt csv
+
 #### Pandas
+import pandas
+
 pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
 built on top of the Python programming language.
 
