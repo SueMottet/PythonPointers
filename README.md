@@ -145,3 +145,5 @@ The fundamental package for scientific computing with Python
 
 NumPy: https://numpy.org/
 
+import numpy as np
+
