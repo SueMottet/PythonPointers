@@ -33,13 +33,12 @@ https://docs.python.org/3/library/csv.html
 import csv
 
 #### Pandas
-import pandas
-
 pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
 built on top of the Python programming language.
 
 pandas - Python Data Analysis Library (pydata.org): https://pandas.pydata.org/
 
+import pandas as pd
 
 Pandas Series https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.sample.html
 
