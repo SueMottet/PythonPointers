@@ -147,3 +147,9 @@ NumPy: https://numpy.org/
 
 import numpy as np
 
+#### Matplotlib
+##### # Add Matplotlib inline magic command
+%matplotlib inline
+##### Dependencies and Setup
+import matplotlib.pyplot as plt
+
